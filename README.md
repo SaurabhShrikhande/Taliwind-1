@@ -10,6 +10,10 @@ UI Screenshoot-
 Explanation - i use taliwind inline css properties for this project, all css properties are avalable in taliwind classes so that i implemet the classes in current project. 
 classes such as
 
+![image](https://github.com/SaurabhShrikhande/Taliwind-1/assets/142402502/bca13c94-3cca-4643-9a05-004c11f1f571)
+
+
+/*
 class name            for 
 flex            display as flex
 p-6             padding 6 rem
@@ -25,6 +29,8 @@ justify-center   justify content as main axis center
 items-cente      center item in cross axis
 my-6	           margin-top: 1.5rem; /* 24px */
                   margin-bottom: 1.5rem; /* 24px */
+
+*/ 
 
 
                   
